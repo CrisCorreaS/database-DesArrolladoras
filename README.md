@@ -14,7 +14,7 @@ Para crear la tabla de usuario con sus cuatro columnas:
     &#96;id&#96; int NOT NULL AUTO_INCREMENT,<br/>
     &#96;nombre&#96; varchar(20) NOT NULL,<br/>
     &#96;apellido&#96; varchar(20) NOT NULL,<br/>
-    &#96;mail&#96; varchar(20) NOT NULL<br/>
+    &#96;email&#96; varchar(20) NOT NULL<br/>
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;</b></p>
 <br/>
 Para poner dos registros en nuestra base de datos:
