@@ -1,6 +1,6 @@
 # database-DesArrolladoras
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
-<br/>
+![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-violet)
+<img align="right" alt="License MIT" src="https://img.shields.io/badge/LICENSE-MIT-green" /> <br/><br/>
 Ejercicio de Laboratorio del Curso "Desarrollo Full-Stack (Nivel 3) ED.2022" del programa Samsung DesArrolladoras. Este repositorio contiene el archivo .sql necesario para crear la tabla "USUARIO" en la base de datos. Asegúrate de seguir las siguientes indicaciones para subir correctamente los archivos.
 
 ### Archivo .sql
